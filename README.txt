@@ -6,3 +6,6 @@
 1. open cmd 
 2. type `pip install -r requirements.txt`
 3. type `python main.py`
+
+
+firefox version : 120.0.1
